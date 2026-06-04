@@ -1,0 +1,10 @@
+Metrics to Report:
+Average response time - 471 ms
+Minimum response time - 180 ms
+Maximum response time - 14,610 ms
+p90 response time - 924 ms
+p95 response time - 1,140 ms
+Requests per second (throughput) - 98.10
+Number of failed requests - 0.00
+Error rate (%) - 0.00%
+
